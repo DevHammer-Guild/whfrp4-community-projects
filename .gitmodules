@@ -1,0 +1,6 @@
+[submodule "enmebaraggesi-character-generator/frontend"]
+	path = enmebaraggesi-character-generator/frontend
+	url = https://github.com/DevHammer-Guild/community-wfrp-character-generator-frontend
+[submodule "enmebaraggesi-character-generator/backend"]
+	path = enmebaraggesi-character-generator/backend
+	url = https://github.com/DevHammer-Guild/community-wfrp-character-generator-backend
